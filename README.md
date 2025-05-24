@@ -66,7 +66,7 @@ You can configure which modules to run in `config.json`.
 
 ## Demo
 
-Check out the [video demo](https://www.linkedin.com) showing the agent in action!
+Check out the [video demo](https://youtu.be/HPaiJbjCC3g) showing the agent in action!
 
 ## Contributing
 
@@ -79,5 +79,5 @@ This project is licensed under the MIT License.
 ## Author
 
 **Your Name**  
-[LinkedIn](https://linkedin.com/in/yourusername)  
+[LinkedIn](www.linkedin.com/in/uzair-siddiqui-13669aba)  
 [GitHub](https://github.com/yourusername)
