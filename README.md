@@ -80,4 +80,4 @@ This project is licensed under the MIT License.
 
 **Your Name**  
 [LinkedIn](www.linkedin.com/in/uzair-siddiqui-13669aba)  
-[GitHub](https://github.com/yourusername)
+[GitHub](https://github.com/uzairde-max)
