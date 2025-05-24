@@ -1,0 +1,17 @@
+{
+  "api_testing": {
+    "endpoints": [
+      {"url": "https://jsonplaceholder.typicode.com/posts", "method": "GET"}
+    ]
+  },
+  "data_analysis": {
+    "file_path": "sample_data.csv"
+  },
+  "ui_testing": {
+    "url": "https://example.com",
+    "elements": ["h1", "p"]
+  },
+  "security_analysis": {
+    "target_path": "."
+  }
+}
